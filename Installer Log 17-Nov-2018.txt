@@ -1,0 +1,649 @@
+Nov 17 17:26:21 MacBook-Pro opendirectoryd[186]: [session] Processing a network change notification
+Nov 17 17:26:22 MacBook-Pro Unknown[526]: Launching the Language Chooser for an OS Install
+Nov 17 17:26:22 MacBook-Pro bspowerassertiontool[521]: Tool exited successfully (0).
+Nov 17 17:26:22 MacBook-Pro launchprogresswindow[524]: ISAP: Show progress UI called
+Nov 17 17:26:23 MacBook-Pro Installer Progress[180]: Progress UI App Starting
+Nov 17 17:26:48 MacBook-Pro opendirectoryd[186]: [session] Received a network change notification
+Nov 17 17:26:48 MacBook-Pro opendirectoryd[186]: [session] Received a network change notification
+Nov 17 17:26:48 MacBook-Pro powerd[173]: Assertion Created. Type:UserIsActive Name:'com.apple.iohideventsystem.queue.tickle.4294968198.3' Id:0x900008008 Process:hidd [System: DeclUser kDisp]
+Nov 17 17:26:51 MacBook-Pro Installer Progress[180]: IASGetCurrentInstallPhaseList: phases = (
+	        {
+	        ConclusionDelay = 0;
+	        InstallPhase = "Boot 1";
+	        InstallPhasePercentageKey = 51;
+	    },
+	        {
+	        ConclusionDelay = 0;
+	        InstallPhase = "Language Chooser";
+	        InstallPhasePercentageKey = 49;
+	    }
+	)
+Nov 17 17:26:51 MacBook-Pro Installer Progress[180]: IASGetCurrentInstallPhase: Current phase name is "Language Chooser"
+Nov 17 17:26:51 MacBook-Pro Installer Progress[180]: phaseName = Language Chooser
+Nov 17 17:26:51 MacBook-Pro Installer Progress[180]: _currentPhase = "<IASPPhase: 0x7fbfc7f24110: 'Language Chooser', percentage 49.0, delay 0>", _phases = (
+	    "<IASPPhase: 0x7fbfc7f24ab0: 'Boot 1', percentage 51.0, delay 0>",
+	    "<IASPPhase: 0x7fbfc7f24110: 'Language Chooser', percentage 49.0, delay 0>"
+	)
+Nov 17 17:26:51 MacBook-Pro Installer Progress[180]: IASGetCurrentInstallPhaseList: phases = (
+	        {
+	        ConclusionDelay = 0;
+	        InstallPhase = "Boot 1";
+	        InstallPhasePercentageKey = 51;
+	    },
+	        {
+	        ConclusionDelay = 0;
+	        InstallPhase = "Language Chooser";
+	        InstallPhasePercentageKey = 49;
+	    }
+	)
+Nov 17 17:26:51 MacBook-Pro Installer Progress[180]: IASGetCurrentInstallPhase: Current phase name is "Language Chooser"
+Nov 17 17:26:51 MacBook-Pro Installer Progress[180]: phaseName = Language Chooser
+Nov 17 17:26:51 MacBook-Pro Installer Progress[180]: _currentPhase = "<IASPPhase: 0x7fbfc7e0d630: 'Language Chooser', percentage 49.0, delay 0>", _phases = (
+	    "<IASPPhase: 0x7fbfc7e084f0: 'Boot 1', percentage 51.0, delay 0>",
+	    "<IASPPhase: 0x7fbfc7e0d630: 'Language Chooser', percentage 49.0, delay 0>"
+	)
+Nov 17 17:26:52 MacBook-Pro opendirectoryd[186]: [session] Processing a network change notification
+Nov 17 17:26:52 MacBook-Pro Installer Progress[180]: Progress app is loading…
+Nov 17 17:26:52 MacBook-Pro Installer Progress[180]: Progress app is running…
+Nov 17 17:26:52 MacBook-Pro Installer Progress[180]: Showing Progress UI
+Nov 17 17:26:53 MacBook-Pro Installer Progress[180]: There are 0 window(s) and 1 display(s), 1 window(s) will be added
+Nov 17 17:26:53 MacBook-Pro Installer Progress[180]: IOProgressColorTheme is set to 1
+Nov 17 17:26:53 MacBook-Pro Installer Progress[180]: Created a window at {{0, 0}, {1280, 800}}
+Nov 17 17:26:53 MacBook-Pro Installer Progress[180]: Status is ""
+Nov 17 17:26:53 MacBook-Pro Installer Progress[180]: Alternate status is ""
+Nov 17 17:26:54 MacBook-Pro Installer Progress[180]: Setting window alpha values to 0.0
+Nov 17 17:26:54 MacBook-Pro Installer Progress[180]: Ordering windows front
+Nov 17 17:26:54 MacBook-Pro Installer Progress[180]: Ordering windows front
+Nov 17 17:26:54 MacBook-Pro Installer Progress[180]: Setting window alpha values to 1.0
+Nov 17 17:26:57 MacBook-Pro Language Chooser[527]: LCA: most frequent language: de
+Nov 17 17:26:57 MacBook-Pro Language Chooser[527]: LCA: most frequent language: en
+Nov 17 17:26:57 MacBook-Pro Language Chooser[527]: LCA: most frequent language: fr
+Nov 17 17:26:57 MacBook-Pro Language Chooser[527]: LCA: most frequent language: bar
+Nov 17 17:26:57 MacBook-Pro Language Chooser[527]: LCA: most frequent language: nds
+Nov 17 17:26:57 MacBook-Pro Language Chooser[527]: LCA: most frequent language: nl
+Nov 17 17:26:57 MacBook-Pro Language Chooser[527]: LCA: most frequent language: it
+Nov 17 17:26:57 MacBook-Pro Language Chooser[527]: LCA: most frequent language: es
+Nov 17 17:26:57 MacBook-Pro Language Chooser[527]: LCA: most frequent language: ru
+Nov 17 17:26:57 MacBook-Pro Language Chooser[527]: LCA: most frequent language: vmf
+Nov 17 17:26:57 MacBook-Pro Language Chooser[527]: LCA: most frequent country code: DE
+Nov 17 17:26:58 MacBook-Pro opendirectoryd[186]: [session] Received a network change notification
+Nov 17 17:26:58 MacBook-Pro Language Chooser[527]: Using progress phase: Language Chooser
+Nov 17 17:26:58 MacBook-Pro Unknown[528]: 2018-11-17 17:26:58.878 Language Chooser[527:14861] TISFileInterrogator updateSystemInputSources false but old data invalid: currentCacheHeaderPtr nonNULL? 0, ->cacheFormatVersion 0, ->magicCookie 00000000, inputSourceTableCountSys 0
+Nov 17 17:26:58 MacBook-Pro Unknown[528]: Keyboard Layouts: duplicate keyboard layout identifier -14934.
+Nov 17 17:26:58 MacBook-Pro Unknown[528]: Keyboard Layouts: keyboard layout identifier -14934 has been replaced with -28673.
+Nov 17 17:26:58 MacBook-Pro Language Chooser[527]: Setup: Factory cable attached: 0
+Nov 17 17:26:59 MacBook-Pro opendirectoryd[186]: [session] Received a network change notification
+Nov 17 17:26:59 MacBook-Pro Unknown[528]: Setting boot completed.
+Nov 17 17:26:59 MacBook-Pro Language Chooser[527]: Set keyboard to id: 17
+Nov 17 17:26:59 MacBook-Pro Language Chooser[527]: Found primary language hint "en"
+Nov 17 17:26:59 MacBook-Pro Language Chooser[527]: Launching the Installer using language code "en"
+Nov 17 17:27:00 MacBook-Pro Language Chooser[527]: Not hiding Language Chooser in window counter
+Nov 17 17:27:01 MacBook-Pro storagekitd[547]: Starting SKDaemon...
+Nov 17 17:27:01 MacBook-Pro storagekitd[547]: Client entitled for destructive operations
+Nov 17 17:27:01 MacBook-Pro storagekitd[547]: Adding client connection <NSXPCConnection: 0x7f822ac01d40> connection from pid 546
+Nov 17 17:27:02 MacBook-Pro opendirectoryd[186]: [session] Received a network change notification
+Nov 17 17:27:02 MacBook-Pro opendirectoryd[186]: [session] Received a network change notification
+Nov 17 17:27:02 MacBook-Pro OSInstaller[546]: Connected to daemon. Language set to: English
+Nov 17 17:27:02 MacBook-Pro OSInstaller[546]: Connected to daemon. Language set to: English
+Nov 17 17:27:02 MacBook-Pro Unknown[528]: 2018-11-17 17:27:02.192 macOS Installer[546:49516] Connected to daemon. Language set to: English
+Nov 17 17:27:02 MacBook-Pro Unknown[528]: 2018-11-17 17:27:02.192 macOS Installer[546:49516] Connected to daemon. Language set to: English
+Nov 17 17:27:02 MacBook-Pro OSInstaller[546]: Using product PKSecureNetEnabledProduct <file:///Volumes/Macintosh%20HD/macOS%20Install%20Data/> at distance 5
+Nov 17 17:27:02 MacBook-Pro OSInstaller[546]: Hardware: MacBookPro11,1 @ 2.60 GHz (x 4), 8192 MB RAM
+Nov 17 17:27:02 MacBook-Pro OSInstaller[546]: Running OS Build: Mac OS X 10.13.6 (17G3025)
+Nov 17 17:27:02 MacBook-Pro OSInstaller[546]: Env: DYLD_NO_FIX_PREBINDING=1
+Nov 17 17:27:02 MacBook-Pro OSInstaller[546]: Env: PATH=/usr/bin:/bin:/usr/sbin:/sbin
+Nov 17 17:27:02 MacBook-Pro OSInstaller[546]: Env: PWD=/
+Nov 17 17:27:02 MacBook-Pro OSInstaller[546]: Env: XPC_FLAGS=0x0
+Nov 17 17:27:02 MacBook-Pro OSInstaller[546]: Env: XPC_SERVICE_NAME=0
+Nov 17 17:27:02 MacBook-Pro OSInstaller[546]: Env: SHLVL=1
+Nov 17 17:27:02 MacBook-Pro OSInstaller[546]: Env: __OSINSTALL_ENVIRONMENT=1
+Nov 17 17:27:02 MacBook-Pro OSInstaller[546]: Env: CI_DEFAULT_OPENCL_USAGE=0
+Nov 17 17:27:02 MacBook-Pro OSInstaller[546]: Env: OS_INSTALL=1
+Nov 17 17:27:02 MacBook-Pro OSInstaller[546]: Env: CA_ASSERT_MAIN_THREAD_TRANSACTIONS=1
+Nov 17 17:27:02 MacBook-Pro OSInstaller[546]: Env: _=/System/Library/CoreServices/Language Chooser.app/Contents/MacOS/Language Chooser
+Nov 17 17:27:02 MacBook-Pro OSInstaller[546]: Creating connection
+Nov 17 17:27:02 MacBook-Pro OSInstaller[546]: Connection = 0x7f89bc726e60, callers = (
+	    "<IASUPCaller: 0x7f89bc726220>"
+	)
+Nov 17 17:27:02 MacBook-Pro OSInstaller[546]: Registering the connection
+Nov 17 17:27:02 MacBook-Pro OSInstaller[546]: client 0x7f89bc723750: phaseName = OS Installer
+Nov 17 17:27:02 MacBook-Pro OSInstaller[546]: Low battery status changed: 0
+Nov 17 17:27:02 MacBook-Pro OSInstaller[546]: client 0x7f89bc723750: phaseName = "OS Installer"
+Nov 17 17:27:02 MacBook-Pro OSInstaller[546]: Mutable product: Looking for automation file at /Volumes/Macintosh HD/macOS Install Data/minstallconfig.xml
+Nov 17 17:27:02 MacBook-Pro OSInstaller[546]: Looking for automation file at /Volumes/Macintosh HD/macOS Install Data/minstallconfig.xml
+Nov 17 17:27:02 MacBook-Pro OSInstaller[546]: Allowing automation file because it has passed point of no return.
+Nov 17 17:27:02 MacBook-Pro OSInstaller[546]: Found target disk by UUID: AAF1DFD6-7569-3976-AC5F-4A3D1C7B0D94
+Nov 17 17:27:02 MacBook-Pro OSInstaller[546]: Install will be automated.
+Nov 17 17:27:02 MacBook-Pro OSInstaller[546]: Install will be a InstallInfo.plist install.
+Nov 17 17:27:02 MacBook-Pro OSInstaller[546]: Installer Info install requested but we're not dmg booted
+Nov 17 17:27:02 MacBook-Pro OSInstaller[546]: The main OS Installer distribution (/Volumes/Macintosh HD/Library/Updates/AtomicUpdates/041-18191/041-18191.English.dist) did not load with error: The file doesn’t exist.
+Nov 17 17:27:02 MacBook-Pro Language Chooser[527]: Child process exited 11
+Nov 17 17:27:02 MacBook-Pro storagekitd[547]: Removing client connection <SKDaemonConnection: 0x7f822ac031b0>
+Nov 17 17:27:02 MacBook-Pro storagekitd[547]: No more connections, storagekitd will exit...
+Nov 17 17:27:02 MacBook-Pro Unknown[551]: Launching the Installer Crash Log Viewer
+Nov 17 17:27:02 MacBook-Pro Viewer[552]: Creating connection
+Nov 17 17:27:02 MacBook-Pro Viewer[552]: Connection = 0x7fa2a071b260, callers = (
+	    "<IASUPCaller: 0x7fa2a071db50>"
+	)
+Nov 17 17:27:02 MacBook-Pro Viewer[552]: Registering the connection
+Nov 17 17:27:02 MacBook-Pro Viewer[552]: client 0x7fa2a071b020: phaseName = Installer Crash Catcher
+Nov 17 17:27:02 MacBook-Pro Viewer[552]: client 0x7fa2a071b020: phaseName = "Installer Crash Catcher"
+Nov 17 17:27:02 MacBook-Pro Viewer[552]: ISAP: hide progress UI called
+Nov 17 17:27:02 MacBook-Pro Viewer[552]: ISAP: hide progress UI called
+Nov 17 17:27:02 MacBook-Pro Viewer[552]: client 0x7fa2a071b020: phaseName = Installer Crash Catcher
+Nov 17 17:27:02 MacBook-Pro Viewer[552]: Releasing Connection
+Nov 17 17:27:02 MacBook-Pro Installer Progress[180]: Hiding Progress UI
+Nov 17 17:27:02 MacBook-Pro Installer Progress[180]: Setting window alpha values to 0.0
+Nov 17 17:27:03 MacBook-Pro Installer Progress[180]: Ordering windows out
+Nov 17 17:27:04 MacBook-Pro akd[555]: [core] akd is starting up...
+Nov 17 17:27:04 MacBook-Pro akd[555]: [core] We are running in recovery. Leaving APS alone.
+Nov 17 17:27:04 MacBook-Pro akd[555]: [core] Registering for XPC activity: com.apple.ak.hb...
+Nov 17 17:27:04 MacBook-Pro akd[555]: [core] We are running in recovery. Leaving IDS alone.
+Nov 17 17:27:04 MacBook-Pro akd[555]: [core] Registered for XPC events
+Nov 17 17:27:04 MacBook-Pro akd[555]: [core] XPC activity registration complete. State: 0.
+Nov 17 17:27:04 MacBook-Pro akd[555]: [traffic] ADIGetIDMSRouting failed! Error: -45061
+Nov 17 17:27:04 MacBook-Pro akd[555]: [core] Kicking off Anisette provisioning....
+Nov 17 17:27:04 MacBook-Pro akd[555]: [core] Fetching URL bag...
+Nov 17 17:27:05 MacBook-Pro akd[555]: [core] Creating task for request at URL: https://gsa.apple.com/grandslam/GsService2/lookup
+Nov 17 17:27:05 MacBook-Pro akd[555]: [core] Creating new NSURLSession with default config...
+Nov 17 17:27:05 MacBook-Pro akd[555]: [core] Resuming task <private> for URL https://gsa.apple.com/grandslam/GsService2/lookup
+Nov 17 17:27:05 MacBook-Pro akd[555]: [core] Task <private> completed! Error: (null)
+Nov 17 17:27:05 MacBook-Pro akd[555]: [core] URL bag fetched! <private>
+Nov 17 17:27:05 MacBook-Pro akd[555]: [core] Cached AuthKit configurations have changed. Clearing cache...
+Nov 17 17:27:05 MacBook-Pro akd[555]: [core] Creating task for request at URL: <private>
+Nov 17 17:27:05 MacBook-Pro akd[555]: [core] Resuming task <private> for URL <private>
+Nov 17 17:27:05 MacBook-Pro akd[555]: [core] Task <private> completed! Error: (null)
+Nov 17 17:27:05 MacBook-Pro akd[555]: [core] Start provisioning response code: 200
+Nov 17 17:27:05 MacBook-Pro akd[555]: [core] ADIProvisioningStart succeeded!
+Nov 17 17:27:05 MacBook-Pro akd[555]: [core] Creating task for request at URL: <private>
+Nov 17 17:27:05 MacBook-Pro akd[555]: [core] Resuming task <private> for URL <private>
+Nov 17 17:27:06 MacBook-Pro akd[555]: [core] Task <private> completed! Error: (null)
+Nov 17 17:27:06 MacBook-Pro akd[555]: [core] End provisioning response code: 200
+Nov 17 17:27:06 MacBook-Pro akd[555]: [core] ADIProvisioningEnd succeeded!
+Nov 17 17:27:06 MacBook-Pro akd[555]: [core] Destroying provisioning context.
+Nov 17 17:27:06 MacBook-Pro opendirectoryd[186]: [session] UID: 0, EUID: 0, GID: 0, EGID: 0
+Nov 17 17:27:06 MacBook-Pro opendirectoryd[186]: [session] ODNodeCreateWithNameAndOptions request, SessionID: 00000000-0000-0000-0000-000000000000, Name: /Search, Options: 0x0
+Nov 17 17:27:06 MacBook-Pro opendirectoryd[186]: [session] ODNodeCreateWithNameAndOptions failed with result 2000
+Nov 17 17:27:06 MacBook-Pro opendirectoryd[186]: [session] UID: 0, EUID: 0, GID: 0, EGID: 0
+Nov 17 17:27:06 MacBook-Pro opendirectoryd[186]: [session] ODNodeCreateWithNameAndOptions request, SessionID: 00000000-0000-0000-0000-000000000000, Name: /Search, Options: 0x0
+Nov 17 17:27:06 MacBook-Pro opendirectoryd[186]: [session] ODNodeCreateWithNameAndOptions failed with result 2000
+Nov 17 17:27:06 MacBook-Pro opendirectoryd[186]: [session] Processing a network change notification
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Process:               macOS Installer [546]
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Path:                  /System/Installation/CDIS/macOS Installer.app/Contents/MacOS/macOS Installer
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Identifier:            com.apple.macOS-Installer
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Version:               1.0 (1006)
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Build Info:            OSInstaller-1006000000000000~88
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Code Type:             X86-64 (Native)
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Parent Process:        ??? [527]
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Responsible:           macOS Installer [546]
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: User ID:               0
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:  
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Date/Time:             2018-11-17 09:27:03.526 -0800
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: OS Version:            Mac OS X 10.13.6 (17G3025)
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Report Version:        12
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Anonymous UUID:        2539C08E-A0D3-4425-9070-E1CF4432C54A
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:  
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:  
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Time Awake Since Boot: 67 seconds
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:  
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: System Integrity Protection: disabled
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:  
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Crashed Thread:        0  Dispatch queue: com.apple.main-thread
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:  
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Exception Type:        EXC_BAD_ACCESS (SIGSEGV)
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Exception Codes:       KERN_INVALID_ADDRESS at 0x0000000000000018
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Exception Note:        EXC_CORPSE_NOTIFY
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:  
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Termination Signal:    Segmentation fault: 11
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Termination Reason:    Namespace SIGNAL, Code 0xb
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Terminating Process:   exc handler [0]
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:  
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: VM Regions Near 0x18:
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: --> 
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:     __TEXT                 000000010b2f2000-000000010b309000 [   92K] r-x/rwx SM=COW  /System/Installation/CDIS/macOS Installer.app/Contents/MacOS/macOS Installer
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:  
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Application Specific Information:
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: objc_msgSend() selector name: release
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:  
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:  
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Thread 0 Crashed:: Dispatch queue: com.apple.main-thread
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 0   libobjc.A.dylib               	0x000000010bf61e9d objc_msgSend + 29
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 1   com.apple.macOS-Installer     	0x000000010b2f4840 0x10b2f2000 + 10304
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 2   libdispatch.dylib             	0x00000001110425fa _dispatch_call_block_and_release + 12
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 3   libdispatch.dylib             	0x000000011103adb8 _dispatch_client_callout + 8
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 4   libdispatch.dylib             	0x0000000111046395 _dispatch_main_queue_callback_4CF + 1148
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 5   com.apple.CoreFoundation      	0x000000010de82d49 __CFRUNLOOP_IS_SERVICING_THE_MAIN_DISPATCH_QUEUE__ + 9
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 6   com.apple.CoreFoundation      	0x000000010de4551a __CFRunLoopRun + 2586
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 7   com.apple.CoreFoundation      	0x000000010de44867 CFRunLoopRunSpecific + 487
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 8   com.apple.HIToolbox           	0x00000001176e2d96 RunCurrentEventLoopInMode + 286
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 9   com.apple.HIToolbox           	0x00000001176e2b06 ReceiveNextEventCommon + 613
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 10  com.apple.HIToolbox           	0x00000001176e2884 _BlockUntilNextEventMatchingListInModeWithFilter + 64
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 11  com.apple.AppKit              	0x000000010c546a73 _DPSNextEvent + 2085
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 12  com.apple.AppKit              	0x000000010ccdce34 -[NSApplication(NSEvent) _nextEventMatchingEventMask:untilDate:inMode:dequeue:] + 3044
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 13  com.apple.AppKit              	0x000000010c53b885 -[NSApplication run] + 764
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 14  com.apple.AppKit              	0x000000010c50aa72 NSApplicationMain + 804
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 15  com.apple.macOS-Installer     	0x000000010b2f40ef 0x10b2f2000 + 8431
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 16  libdyld.dylib                 	0x00000001110ae015 start + 1
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:  
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Thread 1:
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 0   libsystem_kernel.dylib        	0x0000000111506d82 __semwait_signal + 10
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 1   libsystem_c.dylib             	0x00000001111cd724 nanosleep + 199
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 2   libsystem_c.dylib             	0x00000001111cd586 sleep + 41
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 3   com.apple.IASUtilities        	0x000000010b82115b do_log_watch + 55
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 4   libsystem_pthread.dylib       	0x0000000111544661 _pthread_body + 340
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 5   libsystem_pthread.dylib       	0x000000011154450d _pthread_start + 377
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 6   libsystem_pthread.dylib       	0x0000000111543bf9 thread_start + 13
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:  
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Thread 2:
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 0   libsystem_kernel.dylib        	0x000000011150728a __workq_kernreturn + 10
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 1   libsystem_pthread.dylib       	0x0000000111544009 _pthread_wqthread + 1035
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 2   libsystem_pthread.dylib       	0x0000000111543be9 start_wqthread + 13
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:  
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Thread 3:
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 0   libsystem_kernel.dylib        	0x000000011150728a __workq_kernreturn + 10
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 1   libsystem_pthread.dylib       	0x0000000111544009 _pthread_wqthread + 1035
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 2   libsystem_pthread.dylib       	0x0000000111543be9 start_wqthread + 13
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:  
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Thread 4:
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 0   libsystem_kernel.dylib        	0x000000011150728a __workq_kernreturn + 10
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 1   libsystem_pthread.dylib       	0x0000000111544009 _pthread_wqthread + 1035
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 2   libsystem_pthread.dylib       	0x0000000111543be9 start_wqthread + 13
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:  
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Thread 5:
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 0   libsystem_kernel.dylib        	0x000000011150728a __workq_kernreturn + 10
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 1   libsystem_pthread.dylib       	0x0000000111544009 _pthread_wqthread + 1035
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 2   libsystem_pthread.dylib       	0x0000000111543be9 start_wqthread + 13
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:  
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Thread 6:
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 0   libsystem_pthread.dylib       	0x0000000111543bdc start_wqthread + 0
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 1   ???                           	0x0000000100000038 0 + 4294967352
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:  
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Thread 7:: com.apple.NSEventThread
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 0   libsystem_kernel.dylib        	0x00000001114fd20a mach_msg_trap + 10
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 1   libsystem_kernel.dylib        	0x00000001114fc724 mach_msg + 60
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 2   com.apple.CoreFoundation      	0x000000010de45ea5 __CFRunLoopServiceMachPort + 341
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 3   com.apple.CoreFoundation      	0x000000010de451f7 __CFRunLoopRun + 1783
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 4   com.apple.CoreFoundation      	0x000000010de44867 CFRunLoopRunSpecific + 487
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 5   com.apple.AppKit              	0x000000010c683fc4 _NSEventThread + 184
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 6   libsystem_pthread.dylib       	0x0000000111544661 _pthread_body + 340
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 7   libsystem_pthread.dylib       	0x000000011154450d _pthread_start + 377
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 8   libsystem_pthread.dylib       	0x0000000111543bf9 thread_start + 13
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:  
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Thread 8:
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 0   libsystem_pthread.dylib       	0x0000000111543bdc start_wqthread + 0
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: 1   ???                           	0x000070000d6b7b70 0 + 123145527458672
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:  
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Thread 0 crashed with X86 Thread State (64-bit):
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:   rax: 0x00007f89bc730eb0  rbx: 0x00007ffee490c3e8  rcx: 0x00007f89ba8028c0  rdx: 0x0000000000000307
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:   rdi: 0x00007f89bc705ed0  rsi: 0x000000010bf7fe5b  rbp: 0x00007ffee490c3d0  rsp: 0x00007ffee490c358
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:    r8: 0x0000000000000000   r9: 0x0000000000000001  r10: 0x0000000000000000  r11: 0x000000010bf7fe5b
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:   r12: 0x000000010bf61e80  r13: 0x00007f89b9f52a80  r14: 0x000000010e1869ea  r15: 0x00007f89bc705ed0
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:   rip: 0x000000010bf61e9d  rfl: 0x0000000000010246  cr2: 0x0000000000000018
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:   
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Logical CPU:     0
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Error Code:      0x00000004
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Trap Number:     14
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:  
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:  
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Binary Images:
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10b2f2000 -        0x10b308ff7  com.apple.macOS-Installer (1.0 - 1006) <1CB579CD-2360-3096-A7D2-77854379E9F6> /System/Installation/CDIS/macOS Installer.app/Contents/MacOS/macOS Installer
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10b31a000 -        0x10b31afff  com.apple.Carbon (158 - 158) <F8B370D9-2103-3276-821D-ACC756167F86> /System/Library/Frameworks/Carbon.framework/Versions/A/Carbon
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10b31e000 -        0x10b322ffb  libScreenReader.dylib (562.18.4) <E239923D-54C9-3BBF-852F-87C09DEF4091> /usr/lib/libScreenReader.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10b32b000 -        0x10b336fff  libIASUnifiedProgress.dylib (1) <EAC40B98-51B5-367B-A8A1-9DAEAE6CAD98> /usr/lib/libIASUnifiedProgress.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10b346000 -        0x10b365ff3  com.apple.DistributionKit (700 - 1000) <6176EA91-6217-30F6-B8A1-56092BCE8DDF> /System/Library/PrivateFrameworks/Install.framework/Frameworks/DistributionKit.framework/Versions/A/DistributionKit
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10b385000 -        0x10b3befff  com.apple.OSInstaller (1.0 - 1006) <84AD1986-8B3F-3045-8898-87DF69F4E608> /System/Library/PrivateFrameworks/OSInstaller.framework/Versions/A/OSInstaller
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10b3ed000 -        0x10b42effb  com.apple.StorageKit (1.0 - 470.17) <8904C92D-E050-3072-AC3B-44ACB89D2667> /System/Library/PrivateFrameworks/StorageKit.framework/Versions/A/StorageKit
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10b465000 -        0x10b46cff7  com.apple.PackageKit.PackageUIKit (3.0 - 733) <27488355-0735-3E65-A3B9-BED506EDE90B> /System/Library/PrivateFrameworks/PackageKit.framework/Frameworks/PackageUIKit.framework/Versions/A/PackageUIKit
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10b476000 -        0x10b476ffb  com.apple.AOSMigrate (1.0 - 1) <31217D8A-683A-3F6A-8ED1-6E9789617068> /System/Library/PrivateFrameworks/AOSMigrate.framework/Versions/A/AOSMigrate
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10b47b000 -        0x10b506ff3  com.apple.framework.CoreWLAN (13.0 - 1350.2) <53966601-3913-3027-92AC-D79506F4DB6E> /System/Library/Frameworks/CoreWLAN.framework/Versions/A/CoreWLAN
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10b56a000 -        0x10b605ff7  com.apple.framework.IOKit (2.0.2 - 1445.71.3) <F4400010-3184-3501-996F-DF35213522F0> /System/Library/Frameworks/IOKit.framework/Versions/A/IOKit
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10b653000 -        0x10b77dff7  com.apple.PackageKit (3.0 - 733) <1CDAA609-9CC4-3964-BDF9-36BACCAF2FA4> /System/Library/PrivateFrameworks/PackageKit.framework/Versions/A/PackageKit
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10b818000 -        0x10b843ff7  com.apple.IASUtilities (1.0 - 454.4) <A2204CE0-810B-394D-BAD1-4B1BA4294E14> /System/Library/PrivateFrameworks/IASUtilities.framework/Versions/A/IASUtilities
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10b871000 -        0x10b872fff  libodfde.dylib (24.50.1) <972F9662-D4FA-304F-9D13-AC440F908A6F> /usr/lib/libodfde.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10b878000 -        0x10b878fff  com.apple.Cocoa (6.11 - 22) <80C1AABB-FC32-3833-A53B-0E36E70EBABA> /System/Library/Frameworks/Cocoa.framework/Versions/A/Cocoa
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10b87c000 -        0x10b87dfff  com.apple.TrustEvaluationAgent (2.0 - 31) <39F533B2-211E-3635-AF47-23F27749FF4A> /System/Library/PrivateFrameworks/TrustEvaluationAgent.framework/Versions/A/TrustEvaluationAgent
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10b883000 -        0x10bc49ff3  com.apple.Foundation (6.9 - 1454.93) <4780F1E1-7F46-3028-B2D1-C7960A8BD5AB> /System/Library/Frameworks/Foundation.framework/Versions/C/Foundation
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10bf5b000 -        0x10c34c3b7  libobjc.A.dylib (723) <BEEA51E2-1C4D-3672-87F6-F267B4AC6221> /usr/lib/libobjc.A.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10c4fd000 -        0x10c4feffb  libSystem.B.dylib (1252.50.4) <5BDEB632-6CFD-30E4-B917-F6EE581DB4F2> /usr/lib/libSystem.B.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10c505000 -        0x10d363fff  com.apple.AppKit (6.9 - 1561.60.100) <6857AED3-9D72-3B73-AAC1-82E3D0D28FF0> /System/Library/Frameworks/AppKit.framework/Versions/C/AppKit
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10ddc3000 -        0x10e25dfff  com.apple.CoreFoundation (6.9 - 1454.93) <8890184E-4BB0-3EFF-8011-A3BBFD0A8457> /System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10e515000 -        0x10eb43ff7  com.apple.CoreGraphics (2.0 - 1161.21) <D348EA98-6A2E-3941-B575-9AB7EE576E0D> /System/Library/Frameworks/CoreGraphics.framework/Versions/A/CoreGraphics
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10ec62000 -        0x10ec62fff  com.apple.ApplicationServices (48 - 50) <35B88A29-7E2D-39CA-80DF-CB2967ECA054> /System/Library/Frameworks/ApplicationServices.framework/Versions/A/ApplicationServices
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10ec66000 -        0x10ec67fff  com.apple.print.framework.Print (12 - 267) <3682ABFB-2561-3419-847D-02C247F4800D> /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Print.framework/Versions/A/Print
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10ec6d000 -        0x10eefbff7  com.apple.audio.toolbox.AudioToolbox (1.14 - 1.14) <E0B8B5D8-80A0-308B-ABD6-F8612102B5D8> /System/Library/Frameworks/AudioToolbox.framework/Versions/A/AudioToolbox
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10f03b000 -        0x10f18bfff  com.apple.CoreText (352.0 - 578.22) <6129F39D-284D-3BBF-8999-7854AB61C01C> /System/Library/Frameworks/CoreText.framework/Versions/A/CoreText
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10f25b000 -        0x10f3d8fff  com.apple.ImageIO.framework (3.3.0 - 1739.3) <86D14377-8F57-387E-982E-2EF60EE41E2F> /System/Library/Frameworks/ImageIO.framework/Versions/A/ImageIO
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10f494000 -        0x10f54dfff  com.apple.ColorSync (4.13.0 - 3325) <D283C285-447D-3258-A7E4-59532123B8FF> /System/Library/Frameworks/ColorSync.framework/Versions/A/ColorSync
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10f59e000 -        0x10f604fff  com.apple.ApplicationServices.ATS (377 - 445.5) <703CE7E4-426A-35C0-A229-F140F30F5340> /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10f631000 -        0x10f635ff3  com.apple.ColorSyncLegacy (4.13.0 - 1) <A5FB2694-1559-34A8-A3D3-2029F68A63CA> /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSyncLegacy.framework/Versions/A/ColorSyncLegacy
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10f645000 -        0x10f645fff  com.apple.CoreServices (822.37 - 822.37) <264305C4-BB1C-3D3B-A2B1-D4EAA02669BF> /System/Library/Frameworks/CoreServices.framework/Versions/A/CoreServices
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10f64e000 -        0x10f6a0ffb  com.apple.HIServices (1.22 - 624.1) <66FD9ED2-9630-313C-86AE-4C2FBCB3F351> /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10f6dd000 -        0x10f6ebfff  com.apple.LangAnalysis (1.7.0 - 1.7.0) <B65FF7E6-E9B5-34D8-8CA7-63D415A8A9A6> /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10f6fc000 -        0x10f748fff  com.apple.print.framework.PrintCore (13.4 - 503.2) <B90C67C1-0292-3CEC-885D-F1882CD104BE> /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10f77b000 -        0x10f7b5fff  com.apple.QD (3.12 - 404.2) <38B20AFF-9D54-3B52-A6DC-C0D71380AA5F> /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10f7e4000 -        0x10f7f0fff  com.apple.speech.synthesis.framework (7.8.1 - 7.8.1) <A08DE016-C8F2-3B0E-BD34-15959D13DBF0> /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10f808000 -        0x10faa4ff7  com.apple.SkyLight (1.600.0 - 312.103.1) <9D0ECB22-52A9-3F55-AD92-0C54C5932C69> /System/Library/PrivateFrameworks/SkyLight.framework/Versions/A/SkyLight
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x10fb86000 -        0x10ff21ff7  com.apple.CFNetwork (902.3.1 - 902.3.1) <4C012538-BB8A-32F3-AACA-011092BEFAB1> /System/Library/Frameworks/CFNetwork.framework/Versions/A/CFNetwork
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x11024e000 -        0x11024efff  com.apple.Accelerate (1.11 - Accelerate 1.11) <2EF00EFE-06E8-3082-85C3-2988B422A19D> /System/Library/Frameworks/Accelerate.framework/Versions/A/Accelerate
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x110254000 -        0x110266ffb  libz.1.dylib (70) <48C67CFC-940D-3857-8DAD-857774605352> /usr/lib/libz.1.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x110270000 -        0x1102c6fff  libc++.1.dylib (400.9) <7D3DACCC-3804-393C-ABC1-1A580FD00CB6> /usr/lib/libc++.1.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x11032c000 -        0x11032dff3  libDiagnosticMessagesClient.dylib (104) <9712E980-76EE-3A89-AEA6-DF4BAF5C0574> /usr/lib/libDiagnosticMessagesClient.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x110337000 -        0x110337feb +cl_kernels (???) <68B775D1-DD7B-41BB-A074-D33EBAEF1748> cl_kernels
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x11033a000 -        0x1103aaff3  com.apple.SystemConfiguration (1.17 - 1.17) <8532B8E9-7E30-35A3-BC4A-DDE8E0614FDA> /System/Library/Frameworks/SystemConfiguration.framework/Versions/A/SystemConfiguration
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1103e7000 -        0x1104cafff  com.apple.CoreDisplay (99.14 - 99.14) <A1B91ADD-828D-33A0-8A92-CC3F83DF89D0> /System/Library/Frameworks/CoreDisplay.framework/Versions/A/CoreDisplay
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1104f9000 -        0x110500fff  com.apple.IOSurface (211.15 - 211.15) <9FD406F1-6BF2-35B0-8339-DF83A1A661EB> /System/Library/Frameworks/IOSurface.framework/Versions/A/IOSurface
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x110516000 -        0x110597fff  Metal (125.30) <6B9EBDEE-C64C-3C1C-922A-0363B642C9BC> /System/Library/Frameworks/Metal.framework/Versions/A/Metal
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x110693000 -        0x1106bdffb  com.apple.MultitouchSupport.framework (1614.1 - 1614.1) <A0709B43-FA9E-3617-8E7A-D68CDFAB2167> /System/Library/PrivateFrameworks/MultitouchSupport.framework/Versions/A/MultitouchSupport
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1106d6000 -        0x110a01fff  com.apple.security (7.0 - 58286.70.9) <DF83510E-B4BC-3CA7-8530-585AF7263EEB> /System/Library/Frameworks/Security.framework/Versions/A/Security
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x110bdc000 -        0x110e28ff7  com.apple.QuartzCore (1.11 - 584.62.2) <C6A3A406-7DC2-3B02-ACEF-4E166AA01EA3> /System/Library/Frameworks/QuartzCore.framework/Versions/A/QuartzCore
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x110f19000 -        0x110f29ff3  libbsm.0.dylib (39) <6BC96A72-AFBE-34FD-91B1-748A530D8AE6> /usr/lib/libbsm.0.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x110f33000 -        0x110f37ff7  libcache.dylib (80) <092479CB-1008-3A83-BECF-E115F24D13C1> /usr/lib/system/libcache.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x110f42000 -        0x110f4cff3  libcommonCrypto.dylib (60118.50.1) <029F5985-9B6E-3DCB-9B96-FD007678C6A7> /usr/lib/system/libcommonCrypto.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x110f60000 -        0x110f67fff  libcompiler_rt.dylib (62) <968B8E3F-3681-3230-9D78-BB8732024F6E> /usr/lib/system/libcompiler_rt.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x110f7c000 -        0x110f85ffb  libcopyfile.dylib (146.50.5) <3885083D-50D8-3EEC-B481-B2E605180D7F> /usr/lib/system/libcopyfile.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x110f91000 -        0x111016ffb  libcorecrypto.dylib (562.70.2) <495BACA2-67D7-369D-ABB1-FE67FAF63A6A> /usr/lib/system/libcorecrypto.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x111039000 -        0x111072ff7  libdispatch.dylib (913.60.3) <BF368549-2DFB-3530-B4CB-31D5EDAC4F2F> /usr/lib/system/libdispatch.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1110ad000 -        0x1110caff7  libdyld.dylib (551.5) <49BF9E96-8297-30CF-8AA6-128CC14054B2> /usr/lib/system/libdyld.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1110eb000 -        0x1110ebffb  libkeymgr.dylib (28) <E34E283E-90FA-3C59-B48E-1277CDB9CDCE> /usr/lib/system/libkeymgr.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1110f2000 -        0x1110f2ff7  liblaunch.dylib (1205.70.9) <B184B521-FF24-3142-AFAF-23D170CF918C> /usr/lib/system/liblaunch.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1110f9000 -        0x1110fdffb  libmacho.dylib (906) <1902A611-081A-3452-B11E-EBD1B166E831> /usr/lib/system/libmacho.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x111109000 -        0x11110bff3  libquarantine.dylib (86) <26C0BA22-8F93-3A07-9A4E-C8D53D2CE42E> /usr/lib/system/libquarantine.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x111117000 -        0x111118ff3  libremovefile.dylib (45) <711E18B2-5BBE-3211-A916-56740C27D17A> /usr/lib/system/libremovefile.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x111124000 -        0x11113bfff  libsystem_asl.dylib (356.70.1) <39E46A6F-B228-3E78-B83E-1779F9707A39> /usr/lib/system/libsystem_asl.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x111149000 -        0x111149fff  libsystem_blocks.dylib (67) <17303FDF-0D2D-3963-B05E-B4DF63052D47> /usr/lib/system/libsystem_blocks.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x111151000 -        0x1111daff7  libsystem_c.dylib (1244.50.9) <1187BFE8-4576-3247-8177-481554E1F9E7> /usr/lib/system/libsystem_c.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x111205000 -        0x111208ffb  libsystem_configuration.dylib (963.50.8) <DF6B5287-203E-30CB-9947-78DF446C72B8> /usr/lib/system/libsystem_configuration.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x111210000 -        0x111213ffb  libsystem_coreservices.dylib (51) <486000D3-D8CB-3BE7-8EE5-8BF380DE6DF7> /usr/lib/system/libsystem_coreservices.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x111220000 -        0x111221fff  libsystem_darwin.dylib (1244.50.9) <09C21A4A-9EE0-388B-A9D9-DFF8F6758791> /usr/lib/system/libsystem_darwin.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x111227000 -        0x11122dff7  libsystem_dnssd.dylib (878.70.2) <976168E4-0F95-3725-800F-CEC6166C9E76> /usr/lib/system/libsystem_dnssd.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x111239000 -        0x111282ff7  libsystem_info.dylib (517.30.1) <AB634A98-B8AA-3804-8436-38261FC8EC4D> /usr/lib/system/libsystem_info.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1112a1000 -        0x1112ecfcb  libsystem_m.dylib (3147.50.1) <17570F46-566C-39FC-BEF6-635A355DD549> /usr/lib/system/libsystem_m.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1112fe000 -        0x11131dfff  libsystem_malloc.dylib (140.50.6) <7FD43735-9DDD-300E-8C4A-F909A74BDF49> /usr/lib/system/libsystem_malloc.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x11132a000 -        0x11145aff7  libsystem_network.dylib (1229.70.2) <5E86B2DE-9E15-3354-8714-4094ED5F698D> /usr/lib/system/libsystem_network.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1114a2000 -        0x1114acffb  libsystem_networkextension.dylib (767.70.2) <9DC03712-552D-3AEE-9519-B5ED70980B70> /usr/lib/system/libsystem_networkextension.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1114ba000 -        0x1114c3ff3  libsystem_notify.dylib (172) <08012EC0-2CD2-34BE-BF93-E7F56491299A> /usr/lib/system/libsystem_notify.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1114ce000 -        0x1114d1fff  libsystem_sandbox.dylib (765.70.1) <553DFCC6-9D31-3B9C-AB7C-30F6F265786D> /usr/lib/system/libsystem_sandbox.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1114df000 -        0x1114e0ff3  libsystem_secinit.dylib (30) <DE8D14E8-A276-3FF8-AE13-77F7040F33C1> /usr/lib/system/libsystem_secinit.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1114ea000 -        0x111510ff7  libsystem_kernel.dylib (4570.71.13) <7601E31F-FC69-3FD9-B2F4-1BA00E0E4381> /usr/lib/system/libsystem_kernel.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x11152c000 -        0x111533ff7  libsystem_platform.dylib (161.50.1) <6355EE2D-5456-3CA8-A227-B96E8F1E2AF8> /usr/lib/system/libsystem_platform.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x111541000 -        0x11154cfff  libsystem_pthread.dylib (301.50.1) <0E51CCBA-91F2-34E1-BF2A-FEEFD3D321E4> /usr/lib/system/libsystem_pthread.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x11155d000 -        0x111564ff7  libsystem_symptoms.dylib (820.60.3) <441C6CA0-5711-3BB1-8420-DDAC3D5272E1> /usr/lib/system/libsystem_symptoms.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x11156e000 -        0x111581fff  libsystem_trace.dylib (829.70.1) <3A6CB706-8CA6-3616-8AFC-14AAD7FAF187> /usr/lib/system/libsystem_trace.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x111595000 -        0x11159aff7  libunwind.dylib (35.3) <BEF3FB49-5604-3B5F-82B5-332B80023AC3> /usr/lib/system/libunwind.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1115a2000 -        0x1115cfff7  libxpc.dylib (1205.70.9) <0BC7AD67-671D-31D4-8B88-C317B8379598> /usr/lib/system/libxpc.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1115f4000 -        0x111627ff7  libclosured.dylib (551.5) <112BC241-6626-3848-8DD8-B34B5B6F7ABC> /usr/lib/closure/libclosured.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x111645000 -        0x111669ff7  libc++abi.dylib (400.8.2) <EF5E37D7-11D9-3530-BE45-B986612D13E2> /usr/lib/libc++abi.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x11167b000 -        0x11167bff3  libauto.dylib (187) <A05C7900-F8C7-3E75-8D3F-909B40C19717> /usr/lib/libauto.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x111688000 -        0x11168dfff  com.apple.DiskArbitration (2.7 - 2.7) <A975AD56-4CD3-3A89-8732-858CA9BD3DAA> /System/Library/Frameworks/DiskArbitration.framework/Versions/A/DiskArbitration
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x11169e000 -        0x1116c8ff3  libarchive.2.dylib (54) <8FC28DD8-E315-3C3E-95FE-D1D2CBE49888> /usr/lib/libarchive.2.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1116d8000 -        0x1118ffffb  libicucore.A.dylib (59181.0.1) <2CE6205F-D375-3BF5-AA0A-3254BC4773D0> /usr/lib/libicucore.A.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1119d2000 -        0x111ab9fff  libxml2.2.dylib (31.13) <8C12B82A-66FD-330C-9BEA-AAC090C7076A> /usr/lib/libxml2.2.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x111af2000 -        0x111af3fff  liblangid.dylib (128) <39C39393-0D05-301D-93B2-F224FC4949AA> /usr/lib/liblangid.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x111af8000 -        0x111b31ff7  libCRFSuite.dylib (41) <FE5EDB68-2593-3C2E-BBAF-1C52D206F296> /usr/lib/libCRFSuite.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x111b51000 -        0x111b51fff  libenergytrace.dylib (16) <A92AB8B8-B986-3CE6-980D-D55090FEF387> /usr/lib/libenergytrace.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x111b5a000 -        0x111b66ff3  libkxld.dylib (4570.71.13) <8B5CF013-E6D0-385D-B648-1153FCF3EAB3> /usr/lib/system/libkxld.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x111b6f000 -        0x111b87ff7  libcoretls.dylib (155.50.1) <D350052E-DC4D-3185-ADBA-BA48EDCEE955> /usr/lib/libcoretls.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x111b94000 -        0x111b95ff3  libcoretls_cfhelpers.dylib (155.50.1) <B297F5D8-F2FE-3566-A752-E9D998B9C039> /usr/lib/libcoretls_cfhelpers.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x111b9f000 -        0x111ba3fff  libpam.2.dylib (22) <7B4D2CE2-1438-387A-9802-5CEEFBF26F86> /usr/lib/libpam.2.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x111bae000 -        0x111d3bff7  libsqlite3.dylib (274.8.1) <B70A2908-E0F7-364E-952A-1D2D19787B89> /usr/lib/libsqlite3.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x111d6a000 -        0x111d77fff  libxar.1.dylib (400) <0316128D-3B47-3052-995D-97B4FE5491DC> /usr/lib/libxar.1.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x111d86000 -        0x111d93ffb  libbz2.1.0.dylib (38) <0A5086BB-4724-3C14-979D-5AD4F26B5B45> /usr/lib/libbz2.1.0.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x111d9e000 -        0x111db7ffb  liblzma.5.dylib (10) <3D419A50-961F-37D2-8A01-3DC7AB7B8D18> /usr/lib/liblzma.5.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x111dc3000 -        0x111f3efff  libnetwork.dylib (1229.70.2) <E185D902-AC7F-3044-87C0-AE2887C59CE7> /usr/lib/libnetwork.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x111f9b000 -        0x111fb1ff7  libapple_nghttp2.dylib (1.24) <01402BC4-4822-3676-9C80-50D83F816424> /usr/lib/libapple_nghttp2.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x111fc3000 -        0x111ff7fff  libpcap.A.dylib (79.20.1) <FA13918B-A247-3181-B256-9B852C7BA316> /usr/lib/libpcap.A.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x112007000 -        0x112067ff3  libusrtcp.dylib (1229.70.2) <1E065228-D0E3-3808-9405-894056C6BEC0> /usr/lib/libusrtcp.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x11207b000 -        0x112083ffb  com.apple.CoreServices.FSEvents (1239.50.1 - 1239.50.1) <3637CEC7-DF0E-320E-9634-44A442925C65> /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/FSEvents
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x11208f000 -        0x112366fff  com.apple.CoreServices.CarbonCore (1178.4 - 1178.4) <0D5E19BF-18CB-3FA4-8A5F-F6C787C5EE08> /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1123dd000 -        0x11248dfff  com.apple.Metadata (10.7.0 - 1191.7) <3DD530A7-E104-3469-98BB-20449834B2FE> /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x11250c000 -        0x11256cfff  com.apple.CoreServices.OSServices (822.37 - 822.37) <4AD2FC98-C6CB-392A-A22F-196A723D7FAE> /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1125ba000 -        0x112628fff  com.apple.SearchKit (1.4.0 - 1.4.0) <3662545A-B1CF-3079-BDCD-C83855CEFEEE> /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x112670000 -        0x1126e4ffb  com.apple.AE (735.1 - 735.1) <08EBA184-20F7-3725-AEA6-C314448161C6> /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x112716000 -        0x1128d4ff7  com.apple.LaunchServices (822.37 - 822.37) <6AA93307-220A-3417-BBC2-FE1C0DE0B652> /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1129ed000 -        0x112a21fff  com.apple.DictionaryServices (1.2 - 284.2) <6505B075-41C3-3C62-A4C3-85CE3F6825CD> /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x112a53000 -        0x112a77ffb  com.apple.coreservices.SharedFileList (71.21 - 71.21) <1B5228EF-D869-3A50-A373-7F4B0289FADD> /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SharedFileList.framework/Versions/A/SharedFileList
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x112a9c000 -        0x112aa8ffb  com.apple.NetFS (6.0 - 4.0) <471DD96F-FA2E-3FE9-9746-2519A6780D1A> /System/Library/Frameworks/NetFS.framework/Versions/A/NetFS
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x112ab6000 -        0x112ac1fff  com.apple.NetAuth (6.2 - 6.2) <B3795F63-C14A-33E1-9EE6-02A2E7661321> /System/Library/PrivateFrameworks/NetAuth.framework/Versions/A/NetAuth
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x112ad2000 -        0x112ad4ffb  com.apple.loginsupport (1.0 - 1) <D1232C1B-80EA-3DF8-9466-013695D0846E> /System/Library/PrivateFrameworks/login.framework/Versions/A/Frameworks/loginsupport.framework/Versions/A/loginsupport
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x112ade000 -        0x112ae6ff7  com.apple.TCC (1.0 - 1) <E1EB7272-FE6F-39AB-83CA-B2B5F2A88D9B> /System/Library/PrivateFrameworks/TCC.framework/Versions/A/TCC
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x112af6000 -        0x112d1eff7  libmecabra.dylib (779.7.6) <F462F170-E872-3D09-B219-973D5E99C09F> /usr/lib/libmecabra.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x112d7c000 -        0x112d83ff7  com.apple.LinguisticData (1.0 - 238.3) <49A54649-1021-3DBD-99B8-1B2EDFFA5378> /System/Library/PrivateFrameworks/LinguisticData.framework/Versions/A/LinguisticData
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x112d92000 -        0x112da8ff7  libmarisa.dylib (9) <D6D2D55D-1D2E-3442-B152-B18803C0ABB4> /usr/lib/libmarisa.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x112db9000 -        0x112dfbfff  com.apple.Lexicon-framework (1.0 - 33.5) <DC94CF9E-1EB4-3C0E-B298-CA1190885276> /System/Library/PrivateFrameworks/Lexicon.framework/Versions/A/Lexicon
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x112e11000 -        0x112e1cfff  libChineseTokenizer.dylib (28) <53633C9B-A3A8-36F7-A53C-432D802F4BB8> /usr/lib/libChineseTokenizer.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x112e2c000 -        0x112e3cfff  libcmph.dylib (6) <890DEC4C-4334-393C-8B56-7C8560BBED9D> /usr/lib/libcmph.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x112e4a000 -        0x112f3bff7  libiconv.2.dylib (51.50.1) <2FEC9707-3FAF-3828-A50D-8605086D060F> /usr/lib/libiconv.2.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x112f4f000 -        0x113044ff7  com.apple.LanguageModeling (1.0 - 159.5.3) <7F0AC200-E3DD-39FB-8A95-00DD70B66A9F> /System/Library/PrivateFrameworks/LanguageModeling.framework/Versions/A/LanguageModeling
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x113070000 -        0x1133d4ff3  com.apple.CoreData (120 - 851) <8D605466-8676-3D45-9A4B-8980971551C3> /System/Library/Frameworks/CoreData.framework/Versions/A/CoreData
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x113586000 -        0x113596ff7  com.apple.CoreEmoji (1.0 - 69.3) <A4357F5C-0C38-3A61-B456-D7321EB2CEE5> /System/Library/PrivateFrameworks/CoreEmoji.framework/Versions/A/CoreEmoji
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1135a6000 -        0x1135bdfd3  libcompression.dylib (47.60.2) <CC7ACB0A-49CD-3564-978F-49F843186F27> /usr/lib/libcompression.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1135c6000 -        0x1135e2ffb  com.apple.CFOpenDirectory (10.13 - 207.50.1) <29F55F7B-379F-3053-8FF3-5C6675A3DD4D> /System/Library/Frameworks/OpenDirectory.framework/Versions/A/Frameworks/CFOpenDirectory.framework/Versions/A/CFOpenDirectory
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x11360b000 -        0x11369efff  com.apple.APFS (1.0 - 1) <6BBB3988-1C91-314F-A77A-4E093A1B18F0> /System/Library/PrivateFrameworks/APFS.framework/Versions/A/APFS
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1136b7000 -        0x1136baffb  libutil.dylib (51.20.1) <216D18E5-0BAF-3EAF-A38E-F6AC37CBABD9> /usr/lib/libutil.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1136c4000 -        0x1136c8ffb  com.apple.xpc.ServiceManagement (1.0 - 1) <71B45D83-ECA4-3265-997E-683A8B8DF413> /System/Library/Frameworks/ServiceManagement.framework/Versions/A/ServiceManagement
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1136d6000 -        0x1136ddff7  com.apple.coreservices.BackgroundTaskManagement (1.0 - 57.1) <51A41CA3-DB1D-3380-993E-99C54AEE518E> /System/Library/PrivateFrameworks/BackgroundTaskManagement.framework/Versions/A/BackgroundTaskManagement
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1136f0000 -        0x113718fff  libxslt.1.dylib (15.12) <4A5E011D-8B29-3135-A52B-9A9070ABD752> /usr/lib/libxslt.1.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x113727000 -        0x113e75ffb  com.apple.vImage (8.1 - ???) <56C275C1-459F-37CD-BF29-2E6D81C29E53> /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vImage.framework/Versions/A/vImage
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x113eed000 -        0x113eedfff  com.apple.Accelerate.vecLib (3.11 - vecLib 3.11) <880DEF40-389A-3F56-ACA1-B62A5BC57E59> /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/vecLib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x113ef5000 -        0x114068fe7  libvDSP.dylib (622.50.5) <4BF310F4-31A3-3DA5-80E4-7F8014AD380B> /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvDSP.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x114078000 -        0x1140b2fef  libBNNS.dylib (38.1) <0AAE0109-71D5-3B26-8401-3E62DDF97624> /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBNNS.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1140c0000 -        0x1140c5ff3  libQuadrature.dylib (3) <3D6BF66A-55B2-3692-BAC7-DEB0C676ED29> /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libQuadrature.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1140ce000 -        0x114184fef  libvMisc.dylib (622.50.5) <88143A88-4FDE-35A1-85FE-54FF0C2A9E43> /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvMisc.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x114194000 -        0x11456dff7  libLAPACK.dylib (1211.50.2) <70781D0B-AEAD-33EB-9900-10DC30F37D61> /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libLAPACK.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1145d3000 -        0x114773ff3  libBLAS.dylib (1211.50.2) <93259222-2D94-333D-A1EB-09C6FC4A64B4> /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x114798000 -        0x1147aeff7  libLinearAlgebra.dylib (1211.50.2) <FB5A35EA-D636-3D69-AB53-B67E1EB8134C> /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libLinearAlgebra.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1147b8000 -        0x114838fff  libSparse.dylib (79.50.2) <0DC25CDD-F8C1-3D6E-B472-8B060708424F> /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libSparse.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x114856000 -        0x114868ff7  libSparseBLAS.dylib (1211.50.2) <994A7D7E-FA3B-3943-A59C-8150B9AF86BE> /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libSparseBLAS.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x114873000 -        0x114878fff  GPUWrangler (3.20.14) <54EC174A-C5E6-3CA2-8A8D-9DA6ACE68C3D> /System/Library/PrivateFrameworks/GPUWrangler.framework/Versions/A/GPUWrangler
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x114880000 -        0x114887ff7  IOAccelerator (378.26) <2274BE11-18DE-3B13-BCDB-C488C9BB19AD> /System/Library/PrivateFrameworks/IOAccelerator.framework/Versions/A/IOAccelerator
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x114894000 -        0x1148abfff  com.apple.IOPresentment (1.0 - 35.1) <7C6332FF-6535-3064-B437-1E9F70671927> /System/Library/PrivateFrameworks/IOPresentment.framework/Versions/A/IOPresentment
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1148cd000 -        0x1148d2ffb  libCoreFSCache.dylib (162.9) <DD9DD721-2957-3D05-B361-70AF9EBFB280> /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libCoreFSCache.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1148dc000 -        0x114bcbfff  com.apple.CoreImage (13.0.0 - 579.5) <AAE2DFD0-9B0A-3D56-8A3E-C460BAF70394> /System/Library/Frameworks/CoreImage.framework/Versions/A/CoreImage
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x114d71000 -        0x114dabfff  com.apple.CoreVideo (1.8 - 0.0) <86CCC036-51BB-3DD1-9601-D93798BCCD0F> /System/Library/Frameworks/CoreVideo.framework/Versions/A/CoreVideo
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x114dd4000 -        0x114de3ff3  com.apple.opengl (16.7.4 - 16.7.4) <9BDE8FF9-5418-3C70-8D1C-09656884CE48> /System/Library/Frameworks/OpenGL.framework/Versions/A/OpenGL
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x114df4000 -        0x114fbeff3  libFosl_dynamic.dylib (17.8) <C58ED77A-4986-31C2-994C-34DDFB8106F0> /usr/lib/libFosl_dynamic.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x114ffc000 -        0x115056ff7  com.apple.opencl (2.8.24 - 2.8.24) <058114A8-6825-31D7-976E-0612B6A273E9> /System/Library/Frameworks/OpenCL.framework/Versions/A/OpenCL
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x115075000 -        0x115197fff  libFontParser.dylib (222.1.6) <6CEBACDD-B848-302E-B4B2-630CB16E663E> /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Resources/libFontParser.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x11521b000 -        0x115265ff7  libFontRegistry.dylib (221.5) <8F68EA59-C8EE-3FA3-BD19-0F1A58441440> /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Resources/libFontRegistry.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1152a0000 -        0x1152c3fff  libJPEG.dylib (1739.3) <D20353C9-8B51-386E-97A3-B1FE0038E9B6> /System/Library/Frameworks/ImageIO.framework/Versions/A/Resources/libJPEG.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1152cd000 -        0x11531aff3  libTIFF.dylib (1739.3) <9833CCBB-48FB-3E7B-A11A-F2F331FD094D> /System/Library/Frameworks/ImageIO.framework/Versions/A/Resources/libTIFF.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x115332000 -        0x115358ff3  libPng.dylib (1739.3) <97A8B816-7A79-3CB8-9D47-CCDC19B84E2F> /System/Library/Frameworks/ImageIO.framework/Versions/A/Resources/libPng.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x115367000 -        0x11536bffb  libGIF.dylib (1739.3) <E1B16861-7818-3319-9EE5-7AF2BC02E4AB> /System/Library/Frameworks/ImageIO.framework/Versions/A/Resources/libGIF.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x115376000 -        0x11545dfff  libJP2.dylib (1739.3) <3C1150F8-4983-3380-9B8C-5021AD972FFE> /System/Library/Frameworks/ImageIO.framework/Versions/A/Resources/libJP2.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x11548c000 -        0x11548eff3  libRadiance.dylib (1739.3) <47A0D85B-8AE8-3FF2-9C13-279550850A24> /System/Library/Frameworks/ImageIO.framework/Versions/A/Resources/libRadiance.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x115494000 -        0x1154dcff3  com.apple.AppleJPEG (1.0 - 1) <8DD410CB-76A1-3F22-9A9F-0491FA0CEB4A> /System/Library/PrivateFrameworks/AppleJPEG.framework/Versions/A/AppleJPEG
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1154ef000 -        0x1154f8ff3  libGFXShared.dylib (16.7.4) <EB2BF8A0-E10D-35EA-8F46-B2E3C62C12A8> /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGFXShared.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x115500000 -        0x11553effb  libGLU.dylib (16.7.4) <BCB09CD8-EB0E-38FA-8B5A-9E29532EE364> /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x115555000 -        0x115560fff  libGL.dylib (16.7.4) <2BB333D3-5C61-33DF-8545-06DF2D08B83D> /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x115575000 -        0x1155b0fe7  libGLImage.dylib (16.7.4) <4DA003CE-0B74-3FE4-808C-B2FBCE517EB4> /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLImage.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1155bd000 -        0x1155bffff  libCVMSPluginSupport.dylib (16.7.4) <F9270AE0-CC3B-3E3E-BA32-CC1068DD8F27> /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libCVMSPluginSupport.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1155cc000 -        0x1155d0fff  libCoreVMClient.dylib (162.9) <4E4F3EA2-5B53-31A3-8256-54EFAA94E4D6> /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libCoreVMClient.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1155dd000 -        0x115633ff3  libcups.2.dylib (462.2.5) <EA944DD1-0B60-32E9-8FB4-BE642D2E7352> /usr/lib/libcups.2.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x11564f000 -        0x115668ff7  com.apple.Kerberos (3.0 - 1) <F86DCCDF-93C1-38B3-82C2-477C12E8EE6D> /System/Library/Frameworks/Kerberos.framework/Versions/A/Kerberos
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x115686000 -        0x1156b6ff3  com.apple.GSS (4.0 - 2.0) <F0458628-964B-3B96-8C84-6FACB03CA63D> /System/Library/Frameworks/GSS.framework/Versions/A/GSS
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1156df000 -        0x1156fbffb  libresolv.9.dylib (65) <E8F3415B-4472-3202-8901-41FD87981DB2> /usr/lib/libresolv.9.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x11570e000 -        0x115782fff  com.apple.Heimdal (4.0 - 2.0) <A5C34322-456F-3AF0-9B53-A32862C8B4E3> /System/Library/PrivateFrameworks/Heimdal.framework/Versions/A/Heimdal
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1157b5000 -        0x1157baff3  libheimdal-asn1.dylib (520.50.7) <BC22EC07-A701-3B8F-B075-E29BB437E6CF> /usr/lib/libheimdal-asn1.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1157c1000 -        0x1157ccfff  com.apple.OpenDirectory (10.13 - 207.50.1) <F895547D-4915-353F-9C1E-E95172BA803B> /System/Library/Frameworks/OpenDirectory.framework/Versions/A/OpenDirectory
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1157e8000 -        0x1157f1ff3  com.apple.CommonAuth (4.0 - 2.0) <230E9C02-9A73-3ED5-BD3D-9E04CAC5F74F> /System/Library/PrivateFrameworks/CommonAuth.framework/Versions/A/CommonAuth
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1157ff000 -        0x11588bff7  com.apple.securityfoundation (6.0 - 55185.50.5) <67B7E8AD-2C9A-35B0-B05E-88ED346FC02B> /System/Library/Frameworks/SecurityFoundation.framework/Versions/A/SecurityFoundation
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x115901000 -        0x115994ff7  com.apple.audio.CoreAudio (4.3.0 - 4.3.0) <EB35D3EC-56EA-33E6-98DC-BDC3A5FA8ACE> /System/Library/Frameworks/CoreAudio.framework/Versions/A/CoreAudio
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1159c5000 -        0x115ab3ff7  com.apple.DiskManagement (11.5 - 1429) <086D1935-D5AC-31DE-BBBE-813CFF596038> /System/Library/PrivateFrameworks/DiskManagement.framework/Versions/A/DiskManagement
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x115b04000 -        0x1167eafff  com.apple.JavaScriptCore (13605 - 13605.3.8) <E6B49CDA-72F0-3E58-85EF-98AF10CE04B0> /System/Library/Frameworks/JavaScriptCore.framework/Versions/A/JavaScriptCore
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x116b33000 -        0x116befff7  com.apple.OSPersonalization (1.0 - 48.1) <2DB260C2-062D-3793-AAE9-4216979D275C> /System/Library/PrivateFrameworks/OSPersonalization.framework/Versions/A/OSPersonalization
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x116c5b000 -        0x116c67fff  com.apple.xpc.RemoteServiceDiscovery (1.0 - 1205.70.9) <2937CFBF-587C-33A0-B493-FFB4E606A498> /System/Library/PrivateFrameworks/RemoteServiceDiscovery.framework/Versions/A/RemoteServiceDiscovery
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x116c74000 -        0x116c7cff3  com.apple.multiverse (1.0 - 27.70.9) <8A776F19-0E3B-3391-80C8-C7EB92BECCD3> /System/Library/PrivateFrameworks/MultiverseSupport.framework/Versions/A/MultiverseSupport
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x116c8a000 -        0x116c92ffb  com.apple.BridgeOSSoftwareUpdate (1.0 - 1) <727E16BD-2D8F-3754-870C-FA90184DE3B3> /System/Library/PrivateFrameworks/BridgeOSSoftwareUpdate.framework/Versions/A/BridgeOSSoftwareUpdate
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x116ca1000 -        0x116cc4ffb  com.apple.RemoteViewServices (2.0 - 125) <592323D1-CB44-35F1-9921-4C2AB8D920A0> /System/Library/PrivateFrameworks/RemoteViewServices.framework/Versions/A/RemoteViewServices
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x116cf0000 -        0x116e9ffff  com.apple.UIFoundation (1.0 - 547.5) <86A2FBA7-2709-3894-A3D5-A00C19BAC48D> /System/Library/PrivateFrameworks/UIFoundation.framework/Versions/A/UIFoundation
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x116f84000 -        0x116f93ff7  com.apple.framework.DFRFoundation (1.0 - 191.7) <3B8ED6F7-5DFF-34C3-BA90-DDB85679684C> /System/Library/PrivateFrameworks/DFRFoundation.framework/Versions/A/DFRFoundation
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x116fa7000 -        0x1170d6fff  com.apple.desktopservices (1.12.5 - 1.12.5) <7739C9A5-64D9-31A5-899B-5FFA242AD70D> /System/Library/PrivateFrameworks/DesktopServicesPriv.framework/Versions/A/DesktopServicesPriv
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x11717f000 -        0x11717ffff  com.apple.audio.units.AudioUnit (1.14 - 1.14) <ABF8778E-4F9D-305E-A528-DE406A1A2B68> /System/Library/Frameworks/AudioUnit.framework/Versions/A/AudioUnit
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x11718d000 -        0x117203fff  com.apple.datadetectorscore (7.0 - 590.3) <B4706195-CBE6-320D-A0E1-A9D4BDF52791> /System/Library/PrivateFrameworks/DataDetectorsCore.framework/Versions/A/DataDetectorsCore
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x117246000 -        0x117247ff7  com.apple.performance.SignpostNotification (1.2.6 - 2.6) <8F04800F-3570-3392-A24D-B229FF03F7F9> /System/Library/PrivateFrameworks/SignpostNotification.framework/Versions/A/SignpostNotification
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x11724e000 -        0x117254fff  com.apple.speech.recognition.framework (6.0.3 - 6.0.3) <2ED8643D-B0C3-3F17-82A2-BBF13E6CBABC> /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SpeechRecognition.framework/Versions/A/SpeechRecognition
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x11725e000 -        0x117393fff  com.apple.coreui (2.1 - 494.1) <B2C515C3-FCE8-3B28-A225-05AD917F509B> /System/Library/PrivateFrameworks/CoreUI.framework/Versions/A/CoreUI
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x117568000 -        0x117578ffb  com.apple.PerformanceAnalysis (1.194 - 194) <8022ED1F-CE70-388E-B37B-6FB1E5F90CF2> /System/Library/PrivateFrameworks/PerformanceAnalysis.framework/Versions/A/PerformanceAnalysis
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x117595000 -        0x1175a5ff7  com.apple.CrashReporterSupport (10.13 - 1) <A909F468-0648-3F51-A77E-3F9ADBC9A941> /System/Library/PrivateFrameworks/CrashReporterSupport.framework/Versions/A/CrashReporterSupport
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1175b7000 -        0x1175ddffb  com.apple.IconServices (97.6 - 97.6) <A56D826D-20D2-34BE-AACC-A80CFCB4E915> /System/Library/PrivateFrameworks/IconServices.framework/Versions/A/IconServices
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1175ff000 -        0x117602fff  com.apple.EFILogin (2.0 - 2) <63C8BB1B-B694-3B1B-A046-FC0C9CEC9454> /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/EFILogin
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x11760b000 -        0x11760effb  com.apple.help (1.3.8 - 66) <DEBADFA8-C189-3195-B0D6-A1F2DE95882A> /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Help.framework/Versions/A/Help
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x117615000 -        0x11765facf  dyld (551.5) <30B355CB-35BA-3112-AA76-4E46CD45F699> /usr/lib/dyld
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1176b3000 -        0x1179b8fff  com.apple.HIToolbox (2.1.1 - 911.10) <BF7F9C0E-C732-3FB2-9BBC-362888BDA57B> /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Versions/A/HIToolbox
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x117b45000 -        0x117bccff7  com.apple.backup.framework (1.9.5 - 1.9.5) <9171156B-6D2D-32FD-8588-5646E0EF793C> /System/Library/PrivateFrameworks/Backup.framework/Versions/A/Backup
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x117c3d000 -        0x117cd2ffb  com.apple.ink.framework (10.9 - 221) <5206C8B0-22DA-36C9-998E-846EDB626D5B> /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Ink.framework/Versions/A/Ink
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x117d06000 -        0x117dc3ff7  com.apple.TextureIO (3.7 - 3.7) <F8BAC954-405D-3CC3-AB7B-048C866EF980> /System/Library/PrivateFrameworks/TextureIO.framework/Versions/A/TextureIO
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x117de3000 -        0x117ee6fe7  libate.dylib (1.13.1) <DABEA1B1-806C-34C9-8AFF-DEB6AB2829E3> /usr/lib/libate.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x117ef4000 -        0x118009ff7  Sharing (1050.22.2) <4E3CCDF2-EA26-334F-8EBA-79BD28486C9D> /System/Library/PrivateFrameworks/Sharing.framework/Versions/A/Sharing
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1180fc000 -        0x118395ffb  com.apple.AuthKit (1.0 - 1) <6CA71A11-91C5-307C-B933-9FCDEDCB580A> /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/AuthKit
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1183e1000 -        0x118409fff  com.apple.framework.Apple80211 (13.0 - 1370.4) <21593061-5389-3689-BBC2-F9F0E9D929F0> /System/Library/PrivateFrameworks/Apple80211.framework/Versions/A/Apple80211
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x118418000 -        0x11851cffb  com.apple.Bluetooth (6.0.7 - 6.0.7f11) <2C81A646-8D1E-3FAE-8A36-154DB2EE9651> /System/Library/Frameworks/IOBluetooth.framework/Versions/A/IOBluetooth
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1185a8000 -        0x1185c6fff  com.apple.ProtocolBuffer (1 - 260) <40704740-4A53-3010-A49B-08D1D69D1D5E> /System/Library/PrivateFrameworks/ProtocolBuffer.framework/Versions/A/ProtocolBuffer
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1185e3000 -        0x1185fcfff  com.apple.MobileKeyBag (2.0 - 1.0) <32E63C7B-E133-33DE-A593-C3C10D64FCAA> /System/Library/PrivateFrameworks/MobileKeyBag.framework/Versions/A/MobileKeyBag
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x118613000 -        0x11861eff7  com.apple.AppleIDAuthSupport (1.0 - 1) <2FAF5567-CDB3-33EF-AB71-05D37F2248B7> /System/Library/PrivateFrameworks/AppleIDAuthSupport.framework/Versions/A/AppleIDAuthSupport
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x11862b000 -        0x11863eff3  com.apple.security.KeychainCircle.KeychainCircle (1.0 - 1) <D919DF09-908E-34F8-99D0-28E7E548D932> /System/Library/PrivateFrameworks/KeychainCircle.framework/Versions/A/KeychainCircle
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x118656000 -        0x11867fffb  com.apple.CoreBluetooth (1.0 - 1) <E1335074-9D07-370E-8440-61C4874BAC56> /System/Library/Frameworks/CoreBluetooth.framework/Versions/A/CoreBluetooth
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x11869e000 -        0x1186deff7  com.apple.DebugSymbols (181.0 - 181.0) <299A0238-ED78-3676-B131-274D972824AA> /System/Library/PrivateFrameworks/DebugSymbols.framework/Versions/A/DebugSymbols
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1186fe000 -        0x11878ffff  com.apple.CoreSymbolication (9.3 - 64026.2) <A8D4315F-5DD5-3164-8672-ECDAF2766644> /System/Library/PrivateFrameworks/CoreSymbolication.framework/Versions/A/CoreSymbolication
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1187e4000 -        0x11886dfc7  com.apple.Symbolication (9.3 - 64033) <FAA17252-6378-34A4-BBBB-22DF54EC1626> /System/Library/PrivateFrameworks/Symbolication.framework/Versions/A/Symbolication
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1188c7000 -        0x1188d6fef  com.apple.AppleFSCompression (96.60.1 - 1.0) <A7C875C4-F5EE-3272-AFB6-57C9FD5352B3> /System/Library/PrivateFrameworks/AppleFSCompression.framework/Versions/A/AppleFSCompression
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1188e0000 -        0x118913ff7  com.apple.MediaKit (16 - 873) <EC6E742E-305D-362F-9E22-BF313013054C> /System/Library/PrivateFrameworks/MediaKit.framework/Versions/A/MediaKit
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x118927000 -        0x1189e1fff  com.apple.DiscRecording (9.0.3 - 9030.4.5) <35D1FF9A-432C-39AD-9C1F-9022246EC5C0> /System/Library/Frameworks/DiscRecording.framework/Versions/A/DiscRecording
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x118a4c000 -        0x118ad9ff7  libCoreStorage.dylib (546.50.1) <6AFD6AAE-2EFE-3CF3-90C6-A66F67FCB309> /usr/lib/libCoreStorage.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x118b03000 -        0x118b0eff7  libcsfde.dylib (546.50.1) <D02562A4-CCE6-35FE-8BDE-05BB68DA0038> /usr/lib/libcsfde.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x118b1b000 -        0x118b72fff  com.apple.ProtectedCloudStorage (1.0 - 1) <99598601-64DB-3A82-A13B-B62641709213> /System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Versions/A/ProtectedCloudStorage
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x118bb7000 -        0x118bf3fff  com.apple.bom (14.0 - 194.2) <EAC5AB86-CC57-3ACD-8C71-B6F91A062D9B> /System/Library/PrivateFrameworks/Bom.framework/Versions/A/Bom
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x118c07000 -        0x118c0afff  com.apple.AppleSystemInfo (3.1.5 - 3.1.5) <39419365-1166-3B27-BFFB-ADD281E38290> /System/Library/PrivateFrameworks/AppleSystemInfo.framework/Versions/A/AppleSystemInfo
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x118c12000 -        0x118c3efff  SystemAdministration (679) <25488296-D347-3146-BD53-194FA9F7152A> /System/Library/PrivateFrameworks/SystemAdministration.framework/Versions/A/SystemAdministration
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x118c69000 -        0x118c6fff7  com.apple.BezelServicesFW (305.1 - 305.1) <7D2C4717-FFF2-3262-B822-1982596BE46B> /System/Library/PrivateFrameworks/BezelServices.framework/Versions/A/BezelServices
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x118c77000 -        0x118c82ff7  com.apple.DirectoryService.Framework (10.13 - 207.50.1) <BE0D8038-7974-3B06-80E1-31E27E5CD634> /System/Library/Frameworks/DirectoryService.framework/Versions/A/DirectoryService
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x118c8c000 -        0x118d5eff7  com.apple.DiskImagesFramework (480.60.1 - 480.60.1) <FCE113FE-EA74-37BC-9FDE-352CAA02112D> /System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/DiskImages
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x118dc0000 -        0x118dc5fff  com.apple.LoginUICore (4.0 - 4.0) <D5F8C028-4400-326C-9760-A209BF176637> /System/Library/PrivateFrameworks/LoginUIKit.framework/Versions/A/Frameworks/LoginUICore.framework/Versions/A/LoginUICore
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x118dd0000 -        0x118e24ffb  libcurl.4.dylib (105.40.1) <B04E7791-EAF9-3D72-B4ED-DD8F135140EC> /usr/lib/libcurl.4.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x118e3a000 -        0x118e6ffff  com.apple.LDAPFramework (2.4.28 - 194.5) <08888215-BBCE-3402-8142-2C9ADB091580> /System/Library/Frameworks/LDAP.framework/Versions/A/LDAP
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x118e7d000 -        0x118e8ffff  libsasl2.2.dylib (211) <04EF3F61-12EC-3319-A649-851999F4C7A4> /usr/lib/libsasl2.2.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x118e98000 -        0x118ea1ff7  com.apple.frameworks.CoreDaemon (1.3 - 1.3) <35A43584-2AF8-3202-A139-27D916E444BE> /System/Library/PrivateFrameworks/CoreDaemon.framework/Versions/B/CoreDaemon
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x118eaf000 -        0x118eb7ff3  com.apple.AppleSRP (5.0 - 1) <4CEC34CF-63E3-3023-B61B-F8D133698534> /System/Library/PrivateFrameworks/AppleSRP.framework/Versions/A/AppleSRP
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x118ebf000 -        0x118fa1ff3  libcrypto.0.9.8.dylib (76.30.1) <D47BDA97-AF5D-39A5-9F54-8244C4B6A993> /usr/lib/libcrypto.0.9.8.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x11900b000 -        0x119059fff  libstdc++.6.dylib (104.1) <0EA35E7E-B536-3628-B462-A4098805CEAC> /usr/lib/libstdc++.6.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1190c2000 -        0x1190d5ff3  com.apple.InstallerDiagnostics (1.0 - 1) <2B221C89-1D09-30E4-A5A0-D7E95E08A951> /System/Library/PrivateFrameworks/InstallerDiagnostics.framework/Versions/A/InstallerDiagnostics
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1190e4000 -        0x1190f9ff3  com.apple.xpc.RemoteXPC (1.0 - 1205.70.9) <C3DB7D30-903A-306C-9DFA-1669D2B60497> /System/Library/PrivateFrameworks/RemoteXPC.framework/Versions/A/RemoteXPC
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x11910a000 -        0x119155ff3  com.apple.BridgeOSInstall (1.0 - 45.1) <7103825E-C456-31E6-8C88-925E3DD22094> /System/Library/PrivateFrameworks/BridgeOSInstall.framework/Versions/A/BridgeOSInstall
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x119183000 -        0x119195ffb  libIASAuthReboot.dylib (1227) <32A69877-6A54-34B9-9422-AC02102C0C68> /usr/lib/libIASAuthReboot.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1191a1000 -        0x119321ff7  com.apple.SystemMigration (1164.1 - 1164.1) <298AFDF5-28FE-3860-830D-D06A88C85663> /System/Library/PrivateFrameworks/SystemMigration.framework/Versions/A/SystemMigration
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x11942c000 -        0x119431fff  com.apple.ServerInformation (2.0 - 1) <F2F5B789-90CC-38D0-B3C1-B22DFB7E6D1E> /System/Library/PrivateFrameworks/ServerInformation.framework/Versions/A/ServerInformation
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x11943a000 -        0x119443ffb  com.apple.installandsetup.SystemMigrationUtils (1.0 - 1) <14F479E4-C916-3E35-8E04-EB967BF01427> /System/Library/PrivateFrameworks/SystemMigrationUtils.framework/Versions/A/SystemMigrationUtils
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x11944f000 -        0x119459ffb  com.apple.private.SystemPolicy (1.0 - 1) <C4127443-3554-3422-9477-5795066FD6E5> /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x119464000 -        0x1194b5ff7  com.apple.LoggingSupport (1.0 - 829.70.1) <142C2AB4-C73A-36D0-B972-5026E7EC1BCF> /System/Library/PrivateFrameworks/LoggingSupport.framework/Versions/A/LoggingSupport
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1194ea000 -        0x1197abff7  com.apple.AOSKit (1.07 - 267) <6B95EB75-95D3-3BD6-A542-70ADD09050CB> /System/Library/PrivateFrameworks/AOSKit.framework/Versions/A/AOSKit
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1197e1000 -        0x1198b3ff7  SoftwareUpdate (1091.8) <47341032-26E7-3479-B03B-866217EE7564> /System/Library/PrivateFrameworks/SoftwareUpdate.framework/Versions/A/SoftwareUpdate
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x11995a000 -        0x11997bffb  com.apple.CacheDelete (1.0 - 1) <BC38A600-18D2-31CE-B996-459F25EFC9F9> /System/Library/PrivateFrameworks/CacheDelete.framework/Versions/A/CacheDelete
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x119991000 -        0x1199afff3  com.apple.aps.framework (4.0 - 4.0) <142A38BC-8266-3462-86A7-C39198651F2A> /System/Library/PrivateFrameworks/ApplePushService.framework/Versions/A/ApplePushService
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1199d0000 -        0x1199dfff7  com.apple.icloud.FindMyDevice (1.0 - 1) <144C9CA1-10C7-31E9-94BA-198160B86F29> /System/Library/PrivateFrameworks/FindMyDevice.framework/Versions/A/FindMyDevice
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1199f6000 -        0x119a0bff7  com.apple.commonutilities (8.0 - 900) <5EC02BD4-F1F8-3A96-BE1A-6620D3080CD4> /System/Library/PrivateFrameworks/CommonUtilities.framework/Versions/A/CommonUtilities
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x119a1d000 -        0x119a34ffb  com.apple.icloud.FMCoreLite (1.0 - 1) <E1A34045-03B8-301B-910E-185061BBBC99> /System/Library/PrivateFrameworks/FMCoreLite.framework/Versions/A/FMCoreLite
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x119a54000 -        0x119a69fff  com.apple.login (3.0 - 3.0) <79189BF9-70D4-3839-9E2F-B3990B673A3E> /System/Library/PrivateFrameworks/login.framework/Versions/A/login
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x119a87000 -        0x119a8affb  com.apple.CommonPanels (1.2.6 - 98) <2391761C-5CAA-3F68-86B7-50B37927B104> /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/CommonPanels.framework/Versions/A/CommonPanels
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x119a92000 -        0x119a97fff  com.apple.ImageCapture (9.0 - 9.0) <23B4916F-3B43-3DFF-B956-FC390EECA284> /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/ImageCapture.framework/Versions/A/ImageCapture
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x119aa7000 -        0x119ac1ff7  com.apple.openscripting (1.7 - 174) <1B2A1F9E-5534-3D61-83CA-9199B39E8708> /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/OpenScripting.framework/Versions/A/OpenScripting
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x119ad7000 -        0x119ad9ff7  com.apple.securityhi (9.0 - 55006) <C1406B8D-7D05-3959-808F-9C82189CF57F> /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SecurityHI.framework/Versions/A/SecurityHI
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x119ae0000 -        0x119b05fff  com.apple.pluginkit.framework (1.0 - 1) <2DCA499B-D7D0-383E-B686-998456FDDF8D> /System/Library/PrivateFrameworks/PlugInKit.framework/Versions/A/PlugInKit
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x11df2c000 -        0x11df5dff3  com.apple.CoreServicesInternal (309.1 - 309.1) <4ECD14EA-A493-3B84-A32F-CF928474A405> /System/Library/PrivateFrameworks/CoreServicesInternal.framework/CoreServicesInternal
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x11dfb5000 -        0x11dfe8ff7  libTrueTypeScaler.dylib (222.1.6) <9147F859-8BD9-31D9-AB54-8E9549B92AE9> /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Resources/libTrueTypeScaler.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x120b3c000 -        0x120b53ff7  libCGInterfaces.dylib (417.2) <C9175EDD-A2E3-34E9-A72E-1BF895A60DD3> /System/Library/Frameworks/Accelerate.framework/Frameworks/vImage.framework/Versions/A/Libraries/libCGInterfaces.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x120bb5000 -        0x120bbdfef  libcldcpuengine.dylib (2.8.7) <EF9A91AC-029C-300A-99E7-4952C15DA09F> /System/Library/Frameworks/OpenCL.framework/Libraries/libcldcpuengine.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x120bc4000 -        0x120bcdff3  libCoreVMClient.mono.dylib (162.9) <870563E7-ED36-30A0-BDF6-220EE2609A6F> /System/Library/Frameworks/OpenGL.framework/Libraries/libCoreVMClient.mono.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x120bd6000 -        0x120bf6ff7  libCLVMCPUPlugin.dylib (2.8.7) <304A2B10-EFBE-3C98-84B4-1E091C314ED0> /System/Library/Frameworks/OpenCL.framework/Libraries/libCLVMCPUPlugin.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x120db5000 -        0x1216ddfeb  libLLVMContainer.dylib (162.9) <CE921769-0241-3561-927C-73BC614593D5> /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libLLVMContainer.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x122179000 -        0x122708ff3  libcl2module.dylib (2.4.14) <86EFE1C0-001D-3040-9777-4EE0806BC14A> /System/Library/Frameworks/OpenCL.framework/Versions/A/Libraries/libcl2module.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x122afa000 -        0x122b66ff7  Vectorizer.dylib (12.0.4) <CDE7D864-8C1C-3AB5-8358-C1C83FD7074F> /System/Library/Frameworks/OpenCL.framework/Versions/A/Libraries/Vectorizer.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x122d01000 -        0x122de7fff  unorm8_bgra.dylib (2.8.7) <157412AB-D99E-31DE-B788-B6A1E0155138> /System/Library/Frameworks/OpenCL.framework/Libraries/ImageFormats/unorm8_bgra.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1230a2000 -        0x1230c2fff  com.apple.menuextra.airport (13.0 - 1370.4) <A4EA50AE-EFCF-387E-9805-6B477AC3B4EB> /System/Library/CoreServices/Menu Extras/AirPort.menu/Contents/MacOS/AirPort
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1230d8000 -        0x12312bff7  com.apple.framework.corewlankit (13.0 - 1350.2) <1EFA068F-AD4B-33B8-9E8B-3BDA5AC28C97> /System/Library/PrivateFrameworks/CoreWLANKit.framework/Versions/A/CoreWLANKit
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x123172000 -        0x123241ff7  com.apple.ViewBridge (343.2 - 343.2) <5519FCED-1F88-3BE6-9BE1-69992086B01B> /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/ViewBridge
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1232bf000 -        0x1232effff  com.apple.securityinterface (10.0 - 55109.50.6) <E27C0F28-EEF7-3D78-84AA-065871F35028> /System/Library/Frameworks/SecurityInterface.framework/Versions/A/SecurityInterface
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x123e78000 -        0x123f58fe7  unorm8_rgba.dylib (2.8.7) <91AA7B64-91B6-3325-BF33-B6AF47B880FC> /System/Library/Frameworks/OpenCL.framework/Libraries/ImageFormats/unorm8_rgba.dylib
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x123f9c000 -        0x123fa5ffb  com.apple.TIMCore (1.2.1 - 1.2.1) <1DDAB46E-3DFF-355D-8F8C-1F01204D1579> /System/Library/CoreServices/Menu Extras/TextInput.menu/Contents/SharedSupport/TIMCore.bundle/Contents/MacOS/TIMCore
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x123fb0000 -        0x123fc3fff  com.apple.TextInputUI (1.1 - 1.1) <6D5FF378-AA30-340C-96BC-C2C4AF721480> /System/Library/CoreServices/Menu Extras/TextInput.menu/Contents/SharedFrameworks/TextInputUI.framework/Versions/A/TextInputUI
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:        0x1240b6000 -        0x1240ebfff  com.apple.SystemConfiguration.EAP8021X (14.0.0 - 14.0) <C548F922-706B-3C89-BE52-52BFB2AD70C4> /System/Library/PrivateFrameworks/EAP8021X.framework/EAP8021X
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:  
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: External Modification Summary:
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:   Calls made by other processes targeting this process:
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:     task_for_pid: 0
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:     thread_create: 0
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:     thread_set_state: 0
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:   Calls made by this process:
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:     task_for_pid: 0
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:     thread_create: 0
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:     thread_set_state: 0
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:   Calls made by all processes on this machine:
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:     task_for_pid: 0
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:     thread_create: 0
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:     thread_set_state: 0
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:  
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: VM Region Summary:
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: ReadOnly portion of Libraries: Total=231.3M resident=0K(0%) swapped_out_or_unallocated=231.3M(100%)
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Writable regions: Total=101.3M written=0K(0%) resident=0K(0%) swapped_out=0K(0%) unallocated=101.3M(100%)
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:  
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:                                 VIRTUAL   REGION 
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: REGION TYPE                        SIZE    COUNT (non-coalesced) 
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: ===========                     =======  ======= 
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: CG backing stores                   56K        4 
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: CG image                            44K        7 
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: CoreGraphics                         8K        2 
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: CoreImage                           32K        5 
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: CoreServices                      1024K        2 
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: CoreUI image data                  268K        3 
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: CoreUI image file                  216K        6 
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Dispatch continuations            8192K        2 
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Kernel Alloc Once                    8K        2 
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: MALLOC                            70.9M       37 
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: MALLOC guard page                   48K       13 
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Memory Tag 242                      12K        2 
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Memory Tag 251                      44K        2 
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: OpenCL                               8K        2 
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: STACK GUARD                       56.0M       10 
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: Stack                             12.1M       10 
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: VM_ALLOCATE                       8324K       12 
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: __DATA                            22.8M      344 
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: __FONT_DATA                          4K        2 
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: __LINKEDIT                        53.1M      284 
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: __TEXT                           178.3M      281 
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: __UNICODE                          560K        2 
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: mapped file                       42.9M       11 
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: shared memory                     64.6M       13 
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: ===========                     =======  ======= 
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]: TOTAL                            519.0M     1034 
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:  
+Nov 17 17:27:13 MacBook-Pro ReportCrash[550]:  
+Nov 17 17:27:13 MacBook-Pro opendirectoryd[186]: [session] UID: 0, EUID: 0, GID: 0, EGID: 0
+Nov 17 17:27:13 MacBook-Pro opendirectoryd[186]: [session] ODNodeCreateWithNameAndOptions request, SessionID: 00000000-0000-0000-0000-000000000000, Name: /Local/Default, Options: 0x0
+Nov 17 17:27:13 MacBook-Pro opendirectoryd[186]: [session] node assigned UUID - 8F826DD6-711C-47EE-815A-B9E545343E71
+Nov 17 17:27:13 MacBook-Pro opendirectoryd[186]: [session] ODNodeCreateWithNameAndOptions completed
+Nov 17 17:27:13 MacBook-Pro opendirectoryd[186]: [session] UID: 0, EUID: 0, GID: 0, EGID: 0
+Nov 17 17:27:13 MacBook-Pro opendirectoryd[186]: [session] ODNodeCopyDetails request, NodeID: 8F826DD6-711C-47EE-815A-B9E545343E71, Keys: (
+	    "dsAttrTypeStandard:NodePath"
+	)
+Nov 17 17:27:13 MacBook-Pro opendirectoryd[186]: [session] found via filename '/private/var/db/dslocal/nodes/Default/computers/localhost.plist'
+Nov 17 17:27:13 MacBook-Pro opendirectoryd[186]: [session] ODNodeCopyDetails completed, delivered 1 result
+Nov 17 17:27:13 MacBook-Pro opendirectoryd[186]: [session] UID: 0, EUID: 0, GID: 0, EGID: 0
+Nov 17 17:27:13 MacBook-Pro opendirectoryd[186]: [session] ODNodeRelease request, NodeID: 8F826DD6-711C-47EE-815A-B9E545343E71
+Nov 17 17:27:13 MacBook-Pro opendirectoryd[186]: [session] ODNodeRelease completed
+Nov 17 17:27:13 MacBook-Pro opendirectoryd[186]: [session] UID: 0, EUID: 0, GID: 0, EGID: 0
+Nov 17 17:27:13 MacBook-Pro opendirectoryd[186]: [session] ODNodeCreateWithNameAndOptions request, SessionID: 00000000-0000-0000-0000-000000000000, Name: /Search, Options: 0x0
+Nov 17 17:27:13 MacBook-Pro opendirectoryd[186]: [session] ODNodeCreateWithNameAndOptions failed with result 2000
+Nov 17 17:27:13 MacBook-Pro opendirectoryd[186]: [session] UID: 0, EUID: 0, GID: 0, EGID: 0
+Nov 17 17:27:13 MacBook-Pro opendirectoryd[186]: [session] ODNodeCreateWithNameAndOptions request, SessionID: 00000000-0000-0000-0000-000000000000, Name: /Search, Options: 0x0
+Nov 17 17:27:13 MacBook-Pro opendirectoryd[186]: [session] ODNodeCreateWithNameAndOptions failed with result 2000
+Nov 17 17:27:13 MacBook-Pro opendirectoryd[186]: [session] UID: 0, EUID: 0, GID: 0, EGID: 0
+Nov 17 17:27:13 MacBook-Pro opendirectoryd[186]: [session] ODNodeCreateWithNameAndOptions request, SessionID: 00000000-0000-0000-0000-000000000000, Name: /Local/Default, Options: 0x0
+Nov 17 17:27:13 MacBook-Pro opendirectoryd[186]: [session] node assigned UUID - E32A3AD5-8A9B-4A3F-BAE0-BB839506F93D
+Nov 17 17:27:13 MacBook-Pro opendirectoryd[186]: [session] ODNodeCreateWithNameAndOptions completed
+Nov 17 17:27:13 MacBook-Pro opendirectoryd[186]: [session] UID: 0, EUID: 0, GID: 0, EGID: 0
+Nov 17 17:27:13 MacBook-Pro opendirectoryd[186]: [session] ODQueryCreateWithNode request, NodeID: E32A3AD5-8A9B-4A3F-BAE0-BB839506F93D, RecordType(s): dsRecTypeStandard:Users, Attribute: dsAttrTypeStandard:RecordName, MatchType: Any, Equality: CaseIgnore, Value(s): dsRecordsAll, Requested Attributes: dsAttrTypeStandard:GeneratedUID,dsAttrTypeNative:LinkedIdentity,dsAttrTypeStandard:RealName,dsAttrTypeStandard:GroupMembership,dsAttrTypeNative:IsHidden,dsAttrTypeStandard:Picture,dsAttrTypeStandard:UserCertificate,dsAttrTypeStandard:AppleMetaNodeLocation,dsAttrTypeStandard:RecordType,dsAttrTypeStandard:Comment,dsAttrTypeStandard:NestedGroups,dsAttrTypeStandard:PrimaryGroupID,dsAttrTypeStandard:AuthenticationAuthority,dsAttrTypeStandard:Keywords,dsAttrTypeStandard:RecordName,dsAttrTypeStandard:JPEGPhoto,dsAttrTypeNative:_guest,dsAttrTypeStandard:AppleMetaRecordName,dsAttrTypeStandard:UserShell,dsAttrTypeStandard:GroupMembers,dsAttrTypeStandard:UniqueID,dsAttrTypeStandard:EMailAddress,dsAttrTypeStandard:NFSHomeDirectory, Max Results: 2147483647
+Nov 17 17:27:13 MacBook-Pro opendirectoryd[186]: [session] flushing dirty record '/private/var/db/dslocal/nodes/Default/computers/localhost' from line 5074
+Nov 17 17:27:13 MacBook-Pro opendirectoryd[186]: [auth] failed to write file <private>
+Nov 17 17:27:13 MacBook-Pro opendirectoryd[186]: [session] ODQueryCreateWithNode completed, delivered 98 results
+Nov 17 17:27:13 MacBook-Pro opendirectoryd[186]: [session] UID: 0, EUID: 0, GID: 0, EGID: 0
+Nov 17 17:27:13 MacBook-Pro opendirectoryd[186]: [session] ODNodeRelease request, NodeID: E32A3AD5-8A9B-4A3F-BAE0-BB839506F93D
+Nov 17 17:27:13 MacBook-Pro opendirectoryd[186]: [session] ODNodeRelease completed
